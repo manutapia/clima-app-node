@@ -1,8 +1,13 @@
-## APlicación de clima curso node
+## Aplicación de clima curso node
+Esta aplicación entrega información del clima de una ciudad.
 
 Recuerden ejecutar ```npm install`` para las librerías
 
-### Ejemplo: 
+### Herramientas 
+* Nodejs
+* OpenWeather API
+
+### Ejemplo para ejecutar el programa: 
 ```
 node app -d "Arica"
 ```
